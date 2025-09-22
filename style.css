@@ -1,0 +1,77 @@
+.card{
+    width: 820px;
+    max-width: 95%;
+    background:white ;
+    padding-top: 5%;
+}
+.cardtop{
+    padding: 36px 48px;
+}
+.subtitle{
+    color: #18a39a;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0 0 12px 0;
+}
+.guarantee{
+    color: #cbe80a;
+    font-weight: 700;
+    margin: 0 0 14px 0;
+}
+.description{
+    color: #9aa9ad;
+    margin: 0;
+    font-weight: 300;
+}
+.cardbottom{
+    display: flex;
+    background: #1a97ad;
+}
+.left ,.right{
+    padding: 34px 40px;
+    width: 50%;
+    color: #fff;
+}
+.left h3{
+    margin: 0 0 18px 0;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #1a97ad;
+}
+.price{
+    font-size: 44px;
+    font-weight: 400;
+    margin: 0 0 6px 0;
+}
+.permonth{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.smalldesc{
+    color: #f7f9fa;
+    margin: 12px 0 20px 0;
+    font-weight: 400;
+}
+.cat{
+    display: inline-block;
+    background: #b9ce32;
+    color: #0f3d32;
+    padding: 12px 28px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.right h2{
+    margin: 0 0 18px 0;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+body{
+    background-color: black;
+}
+.right{
+    background-color: rgb(117, 216, 216);
+}
